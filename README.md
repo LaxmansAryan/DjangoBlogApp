@@ -16,5 +16,14 @@ Welcome to the Django Blog System! This project provides a robust and user-frien
 ## Requirements
 
 - Python 3.x
-- Django 3.x
-- Additional dependencies listed in `requirements.txt`
+- Django 4.x
+
+## Usage
+- To create a new blog post, register for an account or log in if you already have one.
+- Once logged in, navigate to the dashboard and click on "Create New Post" to compose a new blog post.
+- Manage your posts by editing or deleting them from the dashboard.
+- Explore and interact with other posts by browsing through the blog's categories and tags.
+- Leave comments on posts to engage in discussions with other readers.
+
+## Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
