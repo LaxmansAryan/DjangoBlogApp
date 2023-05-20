@@ -30,6 +30,15 @@ Welcome to the Django Blog System! This project provides a robust and user-frien
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
+## Screenshots
+
+
+
+<img width="948" alt="1" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/ebd97cd2-11fc-454b-8971-116ec84b08d7">
+<h1>Home Page</h1>
+
+
+
 
 
 
