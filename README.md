@@ -17,6 +17,8 @@ Welcome to the Django Blog System! This project provides a robust and user-frien
 
 - Python 3.x
 - Django 4.x
+- PostgreSQL 13>=
+- Fluent Reader (for Article view)
 
 ## Usage
 - To create a new blog post, register for an account or log in if you already have one.
@@ -27,3 +29,29 @@ Welcome to the Django Blog System! This project provides a robust and user-frien
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## Screenshots
+<img width="948" alt="1" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/9b439927-5e69-4d38-abdf-0ae9adcfa5ba">
+# Home Page
+
+<img width="947" alt="2" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/2f60139e-0ceb-47d5-bba8-9affc64f3b1d">
+# Pagination
+
+<img width="949" alt="3" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/c73110d5-94a9-4eb3-be7e-f0b39acf5dce">
+# Comment system
+
+<img width="960" alt="4" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/0457cef9-bc16-40b0-912b-7a8f32f7c702">
+# Search option
+
+<img width="900" alt="5" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/40f1b452-6428-4bba-8c19-0814edae94eb">
+# Fluent Reader view
+
+<img width="960" alt="6" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/6f938302-845d-4f9b-939b-2bd503c0e33f">
+# Sending option
+
+
+
+
+
+
+
