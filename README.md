@@ -34,31 +34,31 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 
 
-<img width="948" alt="1" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/ebd97cd2-11fc-454b-8971-116ec84b08d7">
+<img width="800" alt="1" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/ebd97cd2-11fc-454b-8971-116ec84b08d7">
 <h3>Home Page</h3>
 
 
 
-<img width="947" alt="2" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/fda98f21-c3b5-49a3-b1d4-091edcc8db51">
+<img width="800" alt="2" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/fda98f21-c3b5-49a3-b1d4-091edcc8db51">
 <h3>Home Page Pagination</h3>
 
 
 
-<img width="949" alt="3" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/6b4bb243-417b-45d9-9dcd-c01294048750">
+<img width="800" alt="3" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/6b4bb243-417b-45d9-9dcd-c01294048750">
 <h3>Comment Option</h3>
 
 
 
-<img width="960" alt="4" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/bf6b131f-d8a6-4ac7-a91c-5cbff7c3d0b6">
+<img width="800" alt="4" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/bf6b131f-d8a6-4ac7-a91c-5cbff7c3d0b6">
 <h3>Searched Detail Page</h3>
 
 
 
-<img width="900" alt="5" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/d1f5066d-9455-4c72-bbba-5e57e7220bdc">
+<img width="800" alt="5" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/d1f5066d-9455-4c72-bbba-5e57e7220bdc">
 <h3>Fluent Reader</h3>
 
 
 
-<img width="960" alt="6" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/22f27da4-b3c4-4de3-9f3e-278588fb79c3">
+<img width="800" alt="6" src="https://github.com/LaxmansAryan/DjangoBlogApp/assets/102072945/22f27da4-b3c4-4de3-9f3e-278588fb79c3">
 <h3>Send Option</h3>
 
